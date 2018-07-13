@@ -3,3 +3,6 @@ class Player:
         self.name = name
         self.cards = cards
     
+    def show_cards(self):
+        print("cards")
+    
